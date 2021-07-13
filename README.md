@@ -1,6 +1,7 @@
 # java-basic
 
 ## 1. Effective Java 3판 정리
+- [Issues](https://github.com/ksw6169/java-basic/issues)
 - [WIKI](https://github.com/ksw6169/java-basic/wiki)
   - 아이템 1. 생성자 대신 정적 팩토리 메소드를 고려하라.
   - 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라.
