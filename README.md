@@ -11,4 +11,4 @@
   - 아이템 6. 불필요한 객체 생성을 피하라.
   - 아이템 7. 다 쓴 객체 참조를 해제하라.
   - 아이템 8. finalizer와 cleaner 사용을 피하라.
-  - 아이템 9. try-finally 보다는 try-with-resources를 사용하라.
+  - [아이템 9. try-finally 보다는 try-with-resources를 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-9.-try-finally-%EB%B3%B4%EB%8B%A4%EB%8A%94-try-with-resources%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
