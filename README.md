@@ -21,7 +21,7 @@
   - [아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메소드를 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-16.-public-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94-public-%ED%95%84%EB%93%9C%EA%B0%80-%EC%95%84%EB%8B%8C-%EC%A0%91%EA%B7%BC%EC%9E%90-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 17. 변경 가능성을 최소화하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-17.-%EB%B3%80%EA%B2%BD-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC.)
   - [아이템 18. 상속보다는 컴포지션을 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-18.-%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
-  - 아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라.
+  - [아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-19.-%EC%83%81%EC%86%8D%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%B4-%EC%84%A4%EA%B3%84%ED%95%98%EA%B3%A0-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EB%9D%BC.-%EA%B7%B8%EB%9F%AC%EC%A7%80-%EC%95%8A%EC%95%98%EB%8B%A4%EB%A9%B4-%EC%83%81%EC%86%8D%EC%9D%84-%EA%B8%88%EC%A7%80%ED%95%98%EB%9D%BC.)
   - 아이템 20. 추상 클래스보다는 인터페이스를 우선하라.
   - 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라.
   - 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라.
