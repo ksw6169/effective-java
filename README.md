@@ -26,5 +26,5 @@
   - 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라.
   - 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라.
   - 아이템 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라.
-  - 아이템 24. 멤버 클래스는 되도록 static으로 만들라.
+  - [아이템 24. 멤버 클래스는 되도록 static으로 만들라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-24.-%EB%A9%A4%EB%B2%84-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%EB%90%98%EB%8F%84%EB%A1%9D-static%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC.)
   - [아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-25.-%ED%86%B1%EB%A0%88%EB%B2%A8-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%ED%95%9C-%ED%8C%8C%EC%9D%BC%EC%97%90-%ED%95%98%EB%82%98%EB%A7%8C-%EB%8B%B4%EC%9C%BC%EB%9D%BC.)
