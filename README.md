@@ -30,6 +30,6 @@
   - [아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-25.-%ED%86%B1%EB%A0%88%EB%B2%A8-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%ED%95%9C-%ED%8C%8C%EC%9D%BC%EC%97%90-%ED%95%98%EB%82%98%EB%A7%8C-%EB%8B%B4%EC%9C%BC%EB%9D%BC.)
   - 아이템 26. 로 타입은 사용하지 말라.
   - 아이템 27. 비검사 경고를 제거하라.
-  - 아이템 28. 배열보다는 리스트를 사용하라.
+  - [아이템 28. 배열보다는 리스트를 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-28.-%EB%B0%B0%EC%97%B4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - 아이템 29. 이왕이면 제네릭 타입으로 만들라.
   - 아이템 30. 이왕이면 제네릭 메소드로 만들라.
