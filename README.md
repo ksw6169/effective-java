@@ -36,5 +36,5 @@
   - 아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높이라.
   - 아이템 32. 제네릭과 가변 인수를 함께 쓸 때는 신중하라.
   - 아이템 33. 다중 안전 이종 컨테이너를 고려하라.
-  - 아이템 34. int 상수 대신 열거 타입을 사용하라.
+  - [아이템 34. int 상수 대신 열거 타입을 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-34.-int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 35. ordinal 메소드 대신 인스턴스 필드를 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-35.-ordinal-%EB%A9%94%EC%86%8C%EB%93%9C-%EB%8C%80%EC%8B%A0-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%ED%95%84%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
