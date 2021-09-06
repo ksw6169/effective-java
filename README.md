@@ -38,5 +38,10 @@
   - [아이템 33. 다중 안전 이종 컨테이너를 고려하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-33.-%EB%8B%A4%EC%A4%91-%EC%95%88%EC%A0%84-%EC%9D%B4%EC%A2%85-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC.)
   - [아이템 34. int 상수 대신 열거 타입을 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-34.-int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 35. ordinal 메소드 대신 인스턴스 필드를 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-35.-ordinal-%EB%A9%94%EC%86%8C%EB%93%9C-%EB%8C%80%EC%8B%A0-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%ED%95%84%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
+  - 아이템 36. 비트 필드 대신 EnumSet을 사용하라.
+  - 아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라.
+  - 아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라.
+  - 아이템 39. 명명 패턴보다 애너테이션을 사용하라.
+  - 아이템 40. @Override 어노테이션을 일관되게 사용하라. 
   - [아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-61.-%EB%B0%95%EC%8B%B1%EB%90%9C-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 76. 가능한 한 실패 원자적으로 만들라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-76.-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%9C-%EC%8B%A4%ED%8C%A8-%EC%9B%90%EC%9E%90%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC.)
