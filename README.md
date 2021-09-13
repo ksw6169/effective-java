@@ -41,7 +41,7 @@
   - [아이템 36. 비트 필드 대신 EnumSet을 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-36.-%EB%B9%84%ED%8A%B8-%ED%95%84%EB%93%9C-%EB%8C%80%EC%8B%A0-EnumSet%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-37.-ordinal-%EC%9D%B8%EB%8D%B1%EC%8B%B1-%EB%8C%80%EC%8B%A0-EnumMap%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-38.-%ED%99%95%EC%9E%A5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%98%EB%A9%B4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
-  - 아이템 39. 명명 패턴보다 애너테이션을 사용하라.
+  - [아이템 39. 명명 패턴보다 어노테이션을 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-39.-%EB%AA%85%EB%AA%85-%ED%8C%A8%ED%84%B4%EB%B3%B4%EB%8B%A4-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - 아이템 40. @Override 어노테이션을 일관되게 사용하라. 
   - 아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라.
   - [아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-61.-%EB%B0%95%EC%8B%B1%EB%90%9C-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
