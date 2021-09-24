@@ -47,7 +47,7 @@
   - [아이템 42. 익명 클래스보다는 람다를 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-42.-%EC%9D%B5%EB%AA%85-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%9E%8C%EB%8B%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 43. 람다보다는 메소드 참조를 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-43.-%EB%9E%8C%EB%8B%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 44. 표준 함수형 인터페이스를 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-44.-%ED%91%9C%EC%A4%80-%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
-  - 아이템 45. 스트림은 주의해서 사용하라.
+  - [아이템 45. 스트림은 주의해서 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-45.-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%80-%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - 아이템 46. 스트림에서는 부작용 없는 함수를 사용하라.
   - 아이템 47. 반환 타입으로는 스트림보다 컬렉션이 낫다. 
   - 아이템 48. 스트림 병렬화는 주의해서 적용하라. 
