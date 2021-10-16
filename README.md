@@ -59,7 +59,7 @@
   - [아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-54.-null%EC%9D%B4-%EC%95%84%EB%8B%8C,-%EB%B9%88-%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%B4%EB%82%98-%EB%B0%B0%EC%97%B4%EC%9D%84-%EB%B0%98%ED%99%98%ED%95%98%EB%9D%BC.)
   - [아이템 55. 옵셔널 반환은 신중히 하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-55.-%EC%98%B5%EC%85%94%EB%84%90-%EB%B0%98%ED%99%98%EC%9D%80-%EC%8B%A0%EC%A4%91%ED%9E%88-%ED%95%98%EB%9D%BC.)
   - [아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-56.-%EA%B3%B5%EA%B0%9C%EB%90%9C-API-%EC%9A%94%EC%86%8C%EC%97%90%EB%8A%94-%ED%95%AD%EC%83%81-%EB%AC%B8%EC%84%9C%ED%99%94-%EC%A3%BC%EC%84%9D%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EB%9D%BC.)
-  - 아이템 57. 지역변수의 범위를 최소화하라.
+  - [아이템 57. 지역변수의 범위를 최소화하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-57.-%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98-%EB%B2%94%EC%9C%84%EB%A5%BC-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC.)
   - 아이템 58. 전통적인 for문 보다는 for-each문을 사용하라.
   - [아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-61.-%EB%B0%95%EC%8B%B1%EB%90%9C-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 76. 가능한 한 실패 원자적으로 만들라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-76.-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%9C-%EC%8B%A4%ED%8C%A8-%EC%9B%90%EC%9E%90%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC.)
