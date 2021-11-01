@@ -71,5 +71,5 @@
   - [아이템 66. 네이티브 메소드는 신중히 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-66.-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EB%A9%94%EC%86%8C%EB%93%9C%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 67. 최적화는 신중히 하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-67.-%EC%B5%9C%EC%A0%81%ED%99%94%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%ED%95%98%EB%9D%BC.)
   - [아이템 68. 일반적으로 통용되는 명명 규칙을 따르라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-68.-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%86%B5%EC%9A%A9%EB%90%98%EB%8A%94-%EB%AA%85%EB%AA%85-%EA%B7%9C%EC%B9%99%EC%9D%84-%EB%94%B0%EB%A5%B4%EB%9D%BC.)
-  - 아이템 69. 예외는 진짜 예외 상황에만 사용하라.
+  - [아이템 69. 예외는 진짜 예외 상황에만 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-69.-%EC%98%88%EC%99%B8%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%98%88%EC%99%B8-%EC%83%81%ED%99%A9%EC%97%90%EB%A7%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 76. 가능한 한 실패 원자적으로 만들라.](https://github.com/ksw6169/java-basic/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-76.-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%9C-%EC%8B%A4%ED%8C%A8-%EC%9B%90%EC%9E%90%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC.)
