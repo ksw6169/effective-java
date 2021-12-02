@@ -83,4 +83,4 @@
   - [아이템 78. 공유 중인 가변 데이터는 동기화해서 사용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-78.-%EA%B3%B5%EC%9C%A0-%EC%A4%91%EC%9D%B8-%EA%B0%80%EB%B3%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94-%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.)
   - [아이템 79. 과도한 동기화는 피하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-79.-%EA%B3%BC%EB%8F%84%ED%95%9C-%EB%8F%99%EA%B8%B0%ED%99%94%EB%8A%94-%ED%94%BC%ED%95%98%EB%9D%BC.)
   - [아이템 80. 스레드보다는 실행자, 태스트, 스트림을 애용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-80.-%EC%8A%A4%EB%A0%88%EB%93%9C%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%8B%A4%ED%96%89%EC%9E%90,-%ED%83%9C%EC%8A%A4%ED%8A%B8,-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%84-%EC%95%A0%EC%9A%A9%ED%95%98%EB%9D%BC.)
-  - 아이템 81. wait과 notify 보다는 동시성 유틸리티를 애용하라.
+  - [아이템 81. wait과 notify 보다는 동시성 유틸리티를 애용하라.](https://github.com/ksw6169/effective-java/wiki/%EC%95%84%EC%9D%B4%ED%85%9C-81.-wait%EA%B3%BC-notify-%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0%EB%A5%BC-%EC%95%A0%EC%9A%A9%ED%95%98%EB%9D%BC.)
